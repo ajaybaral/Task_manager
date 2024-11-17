@@ -111,10 +111,6 @@ http://localhost:3000
    - Touch-friendly interface for mobile devices
    - Supports both mouse and touch interactions
 
-4. **Performance**
-   - Assumes reasonable number of tasks (< 1000)
-   - Client-side filtering and sorting
-   - No pagination implemented
 
 
 
