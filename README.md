@@ -152,16 +152,17 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Screenshots
 
+
 ### Desktop View
-![Desktop View](./Task_manager/src/assets/Desktop view.png)
+![Desktop View](./src/assets/Desktop-view.png)
 *Full desktop view with multiple tasks*
 
 ### Mobile View
-![Mobile View](./Task_manager/src/assets/Mobile-view.png)
+![Mobile View](./src/assets/Mobile-view.png)
 *Responsive mobile view*
 
 ### Task Management
-![Task Actions](./Task_manager/src/assets/Task.png)
+![Task Actions](./src/assets/Task.png)
 *Task interaction options including complete, delete, and priority indicators*
 
 ---
