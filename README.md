@@ -2,11 +2,6 @@
 
 A modern, responsive task management application built with React, featuring an intuitive user interface for managing daily tasks with priority levels, search functionality, and multiple sorting options.
 
-![Task Manager Empty State](/api/placeholder/800/400)
-*Initial view of the Task Manager*
-
-![Task Manager with Tasks](/api/placeholder/800/400)
-*Task Manager with several tasks added*
 
 ## Features
 
@@ -21,15 +16,13 @@ A modern, responsive task management application built with React, featuring an 
 - ⚡ Real-time updates
 - 🔔 Success notifications
 
-## Live Demo
 
-[Add your deployment URL here]
 
 ## Setup and Installation
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/ajaybaral/Task_manager
 cd task-manager
 ```
 
