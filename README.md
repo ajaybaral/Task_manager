@@ -154,7 +154,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 ### Desktop View
-![Desktop View](./src/assets/Desktop view.png)
+![Desktop View](./src/assets/Desktop-view.png)
 *Full desktop view with multiple tasks*
 
 ### Mobile View
