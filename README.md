@@ -141,9 +141,7 @@ http://localhost:3000
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
@@ -165,6 +163,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ![Task Actions](./src/assets/Task.png)
 *Task interaction options including complete, delete, and priority indicators*
 
----
-
-**Note**: Replace the placeholder images with actual screenshots of your application once deployed.
